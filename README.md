@@ -1,6 +1,6 @@
 # Lucas Matheus
 
-[![Linkedin Badge](https://img.shields.io/badge/Lucas%20Matheus-353535?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-matheus-lucaorx)](https://www.linkedin.com/in/lucas-matheus-lucaorx) [![Protonmail Badge](https://img.shields.io/badge/-lucaorx@protonmail.com-353535?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:lucaorx@protonmail.com)](mailto:lucaorx@protonmail.com)
+[![Custom Badge](https://img.shields.io/badge/-lucas.cunha@disroot.org-353535?style=flat-square&logo=Disroot&logoColor=white)](mailto:lucas.cunha@disroot.org)
 
 ## About Me
 I'm a fullstack developer with the following technologies: NodeJS, ReactJS, React Native and Spring Framework, but my focus is more on the back-end side (NodeJS)
