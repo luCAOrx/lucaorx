@@ -2,6 +2,9 @@
 
 [![Custom Badge](https://img.shields.io/badge/-lucas.cunha@disroot.org-353535?style=flat-square&logo=Disroot&logoColor=white)](mailto:lucas.cunha@disroot.org)
 
+[![Custom Badge](https://img.shields.io/badge/-linkedin-353535?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cunha-lucaorx/)
+
+
 ## Sobre mim
 Eu sou um desenvolvedor full-stack com experiência de 3 anos
 nas seguintes tecnologias: Node.js, React.js e React Native.
